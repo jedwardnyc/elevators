@@ -1,0 +1,9 @@
+*** Simulation started with 2 elevators, 2 total floors, and 2 max people per elevator ***
+Trip 1: car 1 hit floors 1,1 in 3 seconds
+Trip 2: car 2 hit floors 2,2 in 6 seconds
+
+ Total time to service all 4 customers was:
+   
+       
+       
+      9 seconds

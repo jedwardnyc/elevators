@@ -1,0 +1,16 @@
+{
+  "name": "elevators",
+  "version": "1.0.0",
+  "description": "Elevator Simulator in Node.js",
+  "main": "elevator.js",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha -w elevator.spec.js",
+    "start": "node elevator.js"
+  },
+  "author": "Jacob Rico",
+  "license": "ISC"
+}
